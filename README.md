@@ -33,7 +33,7 @@ Please exercise caution when using the `saveSettings()` command as it writes to 
 
 Despite the auto-calibration issue, the Sensirion SCD4x CO2 Sensors remain an excellent choice for monitoring indoor air quality, as they have proven to be more accurate than other popular eCO2 sensors.
 
-## Factory Calibration with Auto-Calibration Off
+## Comparison of Factory Calibration with Auto-Calibration Off for units B0, CC and DC
 ![Co Location Calibration](/images/cal.png)
 
 ## Features
