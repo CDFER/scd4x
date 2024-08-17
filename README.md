@@ -20,9 +20,7 @@ void setup() {
 ```
 Please note that exercising caution when using the `saveSettings()` command, as it writes to the EEPROM, which has a limited lifespan of approximately 2000 write cycles before potential failure.
 
-## Factory Calibration with Auto-Calibration Off
---------------------------------------------
-
+## Factory Calibration with Auto-Calibration Off for 3 test units
 ![Co Location Calibration](/images/cal.png)
 
 ## Features
