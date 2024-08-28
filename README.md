@@ -1,5 +1,7 @@
 # SCD4x CO2 Library
 
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/cdfer/library/scd4x-CO2.svg)](https://registry.platformio.org/libraries/cdfer/scd4x-CO2)
+
 The SCD4x Library provides an interface to interact with Sensirion SCD4x true CO2 sensors using the I2C protocol in Arduino.
 
 ## Important Notice: Auto-Calibration Issue and Recommended Actions
